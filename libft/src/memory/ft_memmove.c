@@ -33,8 +33,3 @@ void	*ft_memmove( void *dest, const void *src, size_t size)
 	}
 	return (dest);
 }
-/*//if( d < s && s < d + size )
-/{
-//	while (size--)
-//		*d++ = *s++;
-//}*/
